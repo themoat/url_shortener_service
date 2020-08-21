@@ -16,3 +16,5 @@ const connectDB = async () => {
 };
 
 module.exports = connectDB;
+
+#pretty basic stuff, we define to use mongoose, connect db, write basic logic for error handling and done.
