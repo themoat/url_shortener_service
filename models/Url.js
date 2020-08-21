@@ -8,3 +8,5 @@ const urlSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model('Url', urlSchema);
+
+#above is this model schema.. It has to be well kept.
